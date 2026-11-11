@@ -7,15 +7,9 @@
 - 🎓 Software Engineering at **1337 Coding School (42 network)** — project-based, peer-driven
 - 🤖 Completed a **Software & AI engineering internship at BCG X** (Casablanca, 2026) — building generative-AI use cases for industry, working alongside senior engineers
 - 🛠️ I build **LLM systems (RAG, agents, routing)**, **full-stack TypeScript web apps**, and low-level projects in **C/C++**
-
-<<<<<<< HEAD
-- 🎓 Software Engineering at **1337 Coding School (42 network)** — peer-driven, project-based learning with strict technical requirements
-- 🤖 Completed a **Software & AI engineering internship at BCG X** (Casablanca, 2026) — designing and building generative-AI use cases for industry, working alongside senior engineers in the Software & AI practice
-- 🛠️ What I like building: **LLM routers & agents, RAG systems, fine-tuning experiments, real-time web apps**, and from-scratch systems programming in C/C++
 - 🌍 Fluent in English, French, Spanish & Arabic
-=======
+
 <div align="center">
->>>>>>> 6e3f352 (Compact profile: new banner, Python highlighted, 3 featured projects)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
