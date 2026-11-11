@@ -12,7 +12,7 @@
 - 🎓 Software Engineering at **1337 Coding School (42 network)** — peer-driven, project-based learning with strict technical requirements
 - 🤖 Completed a **Software & AI engineering internship at BCG X** (Casablanca, 2026) — designing and building generative-AI use cases for industry, working alongside senior engineers in the Software & AI practice
 - 🛠️ What I like building: **LLM routers & agents, RAG systems, fine-tuning experiments, real-time web apps**, and from-scratch systems programming in C/C++
-- 🌍 Fluent in Arabic, French, English & Spanish
+- 🌍 Fluent in English, French, Spanish & Arabic
 =======
 <div align="center">
 >>>>>>> 6e3f352 (Compact profile: new banner, Python highlighted, 3 featured projects)
