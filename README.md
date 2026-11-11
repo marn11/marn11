@@ -7,7 +7,7 @@
 I'm a software engineer focused on **full-stack TypeScript** and **GenAI / LLM systems**.
 
 - 🎓 Software Engineering at **1337 Coding School (42 network)** — peer-driven, project-based learning with strict technical requirements
-- 🤖 Completed a **Data & AI internship at BCG** (Casablanca, 2026) — designing and building generative-AI use cases for industry, working alongside senior engineers in the Data & AI practice
+- 🤖 Completed a **Software & AI engineering internship at BCG X** (Casablanca, 2026) — designing and building generative-AI use cases for industry, working alongside senior engineers in the Software & AI practice
 - 🛠️ What I like building: **LLM routers & agents, RAG systems, fine-tuning experiments, real-time web apps**, and from-scratch systems programming in C/C++
 - 🌍 Fluent in Arabic, French, English & Spanish
 
