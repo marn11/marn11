@@ -6,7 +6,7 @@
 
 - 🎓 Software Engineering at **1337 Coding School (42 network)** — project-based, peer-driven
 - 🤖 Completed a **Software & AI engineering internship at BCG X** (Casablanca, 2026) — building generative-AI use cases for industry, working alongside senior engineers
-- 🛠️ I build **LLM systems (RAG, agents, routing)**, **full-stack TypeScript web apps**, and low-level projects in **C/C++**
+- 🛠️ I build **LLM systems (RAG, agents, routing)**, **full-stack TypeScript web apps**
 - 🌍 Fluent in English, French, Spanish & Arabic
 
 <div align="center">
@@ -17,6 +17,7 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
