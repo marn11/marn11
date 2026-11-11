@@ -6,7 +6,7 @@
 
 - 🎓 Software Engineering at **1337 Coding School (42 network)** — project-based, peer-driven
 - 🤖 Completed a **Software & AI engineering internship at BCG X** (Casablanca, 2026) — building generative-AI use cases for industry, working alongside senior engineers
-- 🛠️ I build **LLM systems (RAG, agents, routing)**, **full-stack TypeScript web apps**
+- 🛠️ I build **LLM systems (RAG, agents, routing)** and **full-stack TypeScript web apps**
 - 🌍 Fluent in English, French, Spanish & Arabic
 
 <div align="center">
@@ -28,9 +28,11 @@
 
 | | Project | What it is |
 |---|---|---|
+| ⚽ | **[football-rag-quiz](https://github.com/marn11/football-rag-quiz)** | RAG-powered football quiz — retrieval-augmented generation over football data |
 | 🧠 | **[llm-task-router](https://github.com/marn11/llm-task-router)** | Self-hosted LLM router that classifies task difficulty and dispatches each request to the right model — cheaper answers for easy prompts, stronger models for hard ones |
 | 🏓 | **[nextjs-pong-game](https://github.com/marn11/nextjs-pong-game)** | Multiplayer real-time Pong platform: live game sync, matchmaking, tournaments, JWT + OAuth2 auth, chat & notifications — fully Dockerized |
-| ⚽ | **[football-rag-quiz](https://github.com/marn11/football-rag-quiz)** | RAG-powered football quiz — retrieval-augmented generation over football data |
+| 💻 | **[langgraph-agent-patterns](https://github.com/marn11/langgraph-agent-patterns)** | A collection of agent patterns built with LangChain & LangGraph: multi-agent supervisors, human-in-the-loop, deep agents and more |
+| 🔑 | **[coding-agent](https://github.com/marn11/coding-agent)** | Built my own coding agent from scratch, because a coding agent is a loop and 300 lines of code. (S/O @ghuntley) |
 
 ---
 
