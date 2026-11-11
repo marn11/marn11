@@ -27,9 +27,9 @@
 
 | | Project | What it is |
 |---|---|---|
-| 🧠 | **[laya-model-router](https://github.com/marn11/laya-model-router)** | Self-hosted LLM router that classifies task difficulty and dispatches each request to the right model — cheaper answers for easy prompts, stronger models for hard ones |
+| 🧠 | **[llm-task-router](https://github.com/marn11/llm-task-router)** | Self-hosted LLM router that classifies task difficulty and dispatches each request to the right model — cheaper answers for easy prompts, stronger models for hard ones |
 | 🏓 | **[nextjs-pong-game](https://github.com/marn11/nextjs-pong-game)** | Multiplayer real-time Pong platform: live game sync, matchmaking, tournaments, JWT + OAuth2 auth, chat & notifications — fully Dockerized |
-| ⚽ | **[rag-footy-quiz](https://github.com/marn11/rag-footy-quiz)** | RAG-powered football quiz — retrieval-augmented generation over football data |
+| ⚽ | **[football-rag-quiz](https://github.com/marn11/football-rag-quiz)** | RAG-powered football quiz — retrieval-augmented generation over football data |
 
 ---
 
